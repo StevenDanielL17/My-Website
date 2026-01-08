@@ -1,0 +1,13 @@
+# Files and directories to ignore during Vercel deployment
+
+# Development files
+.env*.local
+.vscode
+.idea
+
+# Testing
+coverage
+
+# Documentation (optional - remove if you want these deployed)
+*.md
+!README.md
